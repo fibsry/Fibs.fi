@@ -1,1 +1,3 @@
-# Fibs.fi
+---
+permalink: /index.html
+---
